@@ -1,0 +1,64 @@
+*{
+    box-sizing: border-box;
+}
+
+body{
+	background: #fff;
+}
+
+.container{
+    max-width: 1140px;
+    margin: auto;
+}
+
+.cart{
+    background-color: #F6F5FA;
+    padding: 60px 0;
+    margin: 100px 0;
+}
+
+.cart-item{
+    background-color: #fff;
+	border-radius: 10px;
+	padding: 15px 20px;
+	margin-bottom: 20px;
+}
+
+.i-phone{
+    padding-left: 0px;
+    padding-right: 153px;
+}
+
+.center-item img{
+    width: 115px;
+}
+
+.case-input-group{
+    margin-left: 58px;
+}
+
+.cart-item h5{
+    padding: 0 45px;
+}
+
+.cart-item .remove-item{
+	width: 25px!important;
+}
+
+.btn-default{
+	background-color: #fff;
+}
+
+.cart-item .form-control{
+	background-color: #F6F5FA;
+	border: none;
+    width: 65px;
+    border-radius: 10px!important;
+    font-weight: 700;
+    font-size: 20px;
+}
+
+.input-group{
+	width: unset;
+	flex-wrap: nowrap;
+}
